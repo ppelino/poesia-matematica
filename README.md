@@ -1,2 +1,2 @@
-# poesia-matem-tica
+# poesia-matematica
 Match
